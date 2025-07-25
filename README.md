@@ -1,6 +1,6 @@
 # Cleaning-Data-python-script
 
-EndTimeCorrection.py: This repository contains a Python script to clean and correct End Time data based on Horizon Spectra service breakdown input.
+EndTimeCorrection.py: This repository contains a Python script to clean and correct End Time data based on the Horizon Spectra service breakdown input.
 LCHTime_Cleaning.py: Cleaning Lifecycle Hook data merging duration and count.
 
 ## 🛠️ To Run `EndTimeCorrection.py`:
@@ -14,6 +14,7 @@ LCHTime_Cleaning.py: Cleaning Lifecycle Hook data merging duration and count.
 ### 💻 Usage:
 ```bash
 python EndTimeCorrection.py Input1.csv Input2.csv
+```bash
 
 
 
@@ -28,4 +29,5 @@ python EndTimeCorrection.py Input1.csv Input2.csv
 ### 💻 Usage:
 ```bash
 python LCHTime_Cleaningy Input1.csv Input2.csv
+```bash
 
