@@ -14,7 +14,7 @@ LCHTime_Cleaning.py: Cleaning Lifecycle Hook data merging duration and count.
 ### 💻 Usage:
 ```bash
 python EndTimeCorrection.py Input1.csv Input2.csv
-```bash
+```
 
 
 
@@ -29,5 +29,5 @@ python EndTimeCorrection.py Input1.csv Input2.csv
 ### 💻 Usage:
 ```bash
 python LCHTime_Cleaningy Input1.csv Input2.csv
-```bash
+
 
